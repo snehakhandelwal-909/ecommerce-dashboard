@@ -11,16 +11,12 @@ Regional Analysis: Profit by State to identify high-performing regions.
 
 Category Insights: Quantity distribution across major product categories.
 
-Monthly Trends: Profit trends across months to analyze seasonality.
-Customer Insights: Profit contributed by top customers.
-Payment Mode Analysis: Distribution of transactions across payment methods.
-Sub-category Performance: Profitability of different product sub-categories.
-Interactive Filters: Quarterly and categorical filters for deeper insights.
-
 Tools & Technologies
 
 Power BI Desktop (Data modeling & visualization).
+
 Sample E-commerce Sales Dataset (CSV/Excel).
+
 DAX Functions for calculated measures.
 
 How to Use
