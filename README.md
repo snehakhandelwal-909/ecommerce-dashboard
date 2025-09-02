@@ -6,8 +6,11 @@ This project is an interactive E-commerce Sales Dashboard built in Power BI to a
 Dashboard Features
 
 KPI Cards: Total Sales, Quantity, Profit, and Average Order Value (AOV).
+
 Regional Analysis: Profit by State to identify high-performing regions.
+
 Category Insights: Quantity distribution across major product categories.
+
 Monthly Trends: Profit trends across months to analyze seasonality.
 Customer Insights: Profit contributed by top customers.
 Payment Mode Analysis: Distribution of transactions across payment methods.
