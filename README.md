@@ -22,5 +22,5 @@ DAX Functions for calculated measures.
 How to Use
 
 Clone or download this repository.
-Open the file Mystique_Ecommerce_Dashboard.pbix in Power BI Desktop.
+Open the file ecommerce dashboard.pbix in Power BI Desktop.
 Interact with the dashboard using slicers and filters to explore insights.
