@@ -16,9 +16,9 @@ Interactive Filters: Quarterly and categorical filters for deeper insights.
 
 Tools & Technologies
 
-Power BI Desktop (Data modeling & visualization)
-Sample E-commerce Sales Dataset (CSV/Excel)
-DAX Functions for calculated measures
+Power BI Desktop (Data modeling & visualization).
+Sample E-commerce Sales Dataset (CSV/Excel).
+DAX Functions for calculated measures.
 
 How to Use
 
